@@ -1,2 +1,2 @@
-cd C:\xampp\htdocs\free_templates\free-computer-service-website-templates\assets
-scss --watch scss/style.scss:css/style.css
+cd C:\xampp\htdocs\web-components\user_card
+sass --watch scss/style.scss:css/style.css
